@@ -1,10 +1,13 @@
 # Política de Privacidad DriverCity App
 Terms and Policy DriverCity App
+
 Política de Privacidad
 
 Fecha de entrada en vigencia: 05/03/2025
 
-Gracias por utilizar DriverCity. Nos comprometemos a proteger su privacidad y garantizar la seguridad de sus datos personales. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos su información cuando utiliza nuestra aplicación.
+Gracias por utilizar DriverCity. 
+
+Nos comprometemos a proteger su privacidad y garantizar la seguridad de sus datos personales. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos su información cuando utiliza nuestra aplicación.
 
 ## 1. Información que recopilamos
 
